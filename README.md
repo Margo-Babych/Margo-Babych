@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Margo-Babych
 - 👀 I’m interested in new knowledge...
-- 🌱 I’m currently learning to testing mobile
+- 🌱 I’m currently learning to mobile testing 
 - 📫 More information here 
 https://cv-margo-babych.netlify.app
 <!---
